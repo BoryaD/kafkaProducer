@@ -13,5 +13,3 @@ public class Transaction {
     private Double price;
     private LocalDateTime createdAt;
 }
-
-

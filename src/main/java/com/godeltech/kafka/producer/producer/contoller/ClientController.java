@@ -23,5 +23,3 @@ public class ClientController {
         System.out.println(msg);
     }
 }
-
-
